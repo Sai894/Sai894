@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Saibulu Mollel and I an currently going for my computer science degree. 
+In this profile you will find different repositories that are for various different projects I have done thoughtout the years. please explore to your hearts content. 
 <!--
 **Sai894/Sai894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
